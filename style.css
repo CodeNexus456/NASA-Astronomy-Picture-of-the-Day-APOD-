@@ -15,8 +15,9 @@
 .astronomy {
   width: 1000px;
   text-align: center;
-  border: 2px solid gray;
+  border: 0.5px solid gray;
   padding: 10px;
+  border-radius: 0.5rem;
 }
 
 .astronomy h1 {
@@ -55,7 +56,7 @@
   border-radius: 10px;
 }
 
-@media (max-width:480px){
+@media (max-width:440px){
   .astronomy {
     width: 450px;
     border: none;
