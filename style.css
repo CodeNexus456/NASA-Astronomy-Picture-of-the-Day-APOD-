@@ -37,7 +37,8 @@
 .para2 {
   margin-top: 0.5rem;
   font-size: 1rem;
-  text-align:justify;
+  text-align: center;
+  padding: 0 20px 0 20px;
 }
 
 .para3 {
@@ -47,6 +48,7 @@
 .img {
   display: flex;
   justify-content: center;
+  /* padding: 20px; */
 }
 
 .images img{
@@ -86,8 +88,8 @@
   justify-content: center;
 }
   .images img{
-  height: 300px;
-  width: 450px;
+  height: 250px;
+  width: 380px;
   border-radius: 10px;
 }
 
