@@ -39,7 +39,7 @@
   text-align:justify;
 }
 
-.para2 {
+.para3 {
   margin-top: 0.5rem;
   font-size: 1rem;
 } 
@@ -59,22 +59,31 @@
   .astronomy {
     width: 450px;
     border: none;
+    padding: 10px;
+
   }
   .astronomy h1 {
-   margin-top: 120px;
+   /* margin-top: 120px; */
    text-align: center;
    font-size: 1.8rem;
   }
    .astronomy h1 {
     font-size: 1.3rem;
+    text-align: center;
   }
 
   .para2{
    font-size: 0.8rem;
+   text-align:justify;
   }
   .para1 {
    font-size: 0.9rem;
+   text-align: center;
   }
+  .img {
+  display: flex;
+  justify-content: center;
+}
   .images img{
   height: 300px;
   width: 450px;
