@@ -8,7 +8,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
 }
 
 
@@ -48,7 +47,6 @@
 .img {
   display: flex;
   justify-content: center;
-  /* padding: 20px; */
 }
 
 .images img{
@@ -67,7 +65,6 @@
 
   }
   .astronomy h1 {
-   /* margin-top: 120px; */
    text-align: center;
    font-size: 1.8rem;
   }
